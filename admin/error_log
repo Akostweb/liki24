@@ -1,0 +1,260 @@
+[09-Aug-2017 15:49:05 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(25): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:49:12 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(25): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:49:14 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(25): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:49:19 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(25): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:49:51 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(25): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:32 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:53 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:54 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:54 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:54 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:51:54 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:52:49 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:55:26 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:55:27 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:55:27 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:122
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(24): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 122
+[09-Aug-2017 15:56:25 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:124
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(25): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 124
+[09-Aug-2017 15:56:42 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:123
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(25): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 123
+[09-Aug-2017 15:59:12 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 15:59:13 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 15:59:13 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(43): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(51): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 16:01:20 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(45): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(53): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 16:04:21 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(52): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(60): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 16:04:37 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(52): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(60): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 16:04:38 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(52): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(60): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 16:04:52 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Could not load helper aqe!' in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php:127
+Stack trace:
+#0 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/module/admin_quick_edit.php(395): Loader->helper('aqe')
+#1 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(52): ControllerExtensionModuleAdminQuickEdit->__construct(Object(Registry))
+#2 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php(26): Action->execute(Object(Registry), Array)
+#3 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/extension/extension/module.php(26): Loader->controller('extension/modul...')
+#4 [internal function]: ControllerExtensionExtensionModule->install()
+#5 /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/action.php(60): call_user_func_array(Array, Array)
+#6 /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#7 [internal function]: Cont in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/engine/loader.php on line 127
+[09-Aug-2017 17:49:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')' in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/ocdevwizard/smart_site_searcher.php on line 24
+[09-Aug-2017 17:50:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')' in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/ocdevwizard/smart_site_searcher.php on line 33
+[09-Aug-2017 17:50:25 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')' in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/ocdevwizard/smart_site_searcher.php on line 144
+[09-Aug-2017 17:50:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')' in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/ocdevwizard/smart_site_searcher.php on line 152
+[09-Aug-2017 17:50:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')' in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/ocdevwizard/smart_site_searcher.php on line 263
+[10-Aug-2017 12:46:38 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Unknown column 'pd.seo_title' in 'field list'<br />Error No: 1054<br />SELECT DISTINCT p.product_id, ( SELECT cd.name FROM `oc_product_to_category` p2c LEFT JOIN `oc_category_description` cd ON (p2c.category_id = cd.category_id) WHERE p2c.main_category = 1 AND p2c.product_id = p.product_id LIMIT 1) AS main_category ,REPLACE (pd.name, '&quot;', '"') AS name,REPLACE (p.model, '&quot;', '"') AS model,p.sku,p.upc,m.name AS manufacturer,p.shipping,p.location,TRUNCATE(p.price, 2) AS price,p.points,p.quantity,p.stock_status_id,p.length,p.width,p.height,p.weight,ua.keyword,pd.seo_title,pd.seo_h1,pd.meta_keyword,pd.meta_description,pd.description,p.image,p.sort_order,p.status FROM oc_product p  LEFT JOIN `oc_product_description` pd ON (p.product_id = pd.product_id)   LEFT JOIN `oc_manufacturer` m ON (p.manufacturer_id = m.manufacturer_id)   LEFT JOIN `oc_url_alias` ua ON (CONCAT('product_id=', p.product_id) = ua.query)  WHERE  pd.language_id = '1'   ORDER BY p.produc in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/storage/modification/system/library/db/mysqli.php on line 47
+[10-Aug-2017 12:47:25 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Unknown column 'pd.seo_title' in 'field list'<br />Error No: 1054<br />SELECT DISTINCT p.product_id, ( SELECT cd.name FROM `oc_product_to_category` p2c LEFT JOIN `oc_category_description` cd ON (p2c.category_id = cd.category_id) WHERE p2c.main_category = 1 AND p2c.product_id = p.product_id LIMIT 1) AS main_category ,REPLACE (pd.name, '&quot;', '"') AS name,REPLACE (p.model, '&quot;', '"') AS model,p.sku,p.upc,m.name AS manufacturer,p.shipping,p.location,TRUNCATE(p.price, 2) AS price,p.points,p.quantity,p.stock_status_id,p.length,p.width,p.height,p.weight,ua.keyword,pd.seo_title,pd.seo_h1,pd.meta_keyword,pd.meta_description,pd.description,p.image,p.sort_order,p.status FROM oc_product p  LEFT JOIN `oc_product_description` pd ON (p.product_id = pd.product_id)   LEFT JOIN `oc_manufacturer` m ON (p.manufacturer_id = m.manufacturer_id)   LEFT JOIN `oc_url_alias` ua ON (CONCAT('product_id=', p.product_id) = ua.query)  WHERE  pd.language_id = '1'   ORDER BY p.produc in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/storage/modification/system/library/db/mysqli.php on line 47
+[10-Aug-2017 12:48:19 Europe/Helsinki] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Unknown column 'pd.seo_h1' in 'field list'<br />Error No: 1054<br />SELECT DISTINCT p.product_id, ( SELECT cd.name FROM `oc_product_to_category` p2c LEFT JOIN `oc_category_description` cd ON (p2c.category_id = cd.category_id) WHERE p2c.main_category = 1 AND p2c.product_id = p.product_id LIMIT 1) AS main_category ,REPLACE (pd.name, '&quot;', '"') AS name,REPLACE (p.model, '&quot;', '"') AS model,p.sku,p.upc,m.name AS manufacturer,p.shipping,p.location,TRUNCATE(p.price, 2) AS price,p.points,p.quantity,p.stock_status_id,p.length,p.width,p.height,p.weight,ua.keyword,pd.meta_title,pd.seo_h1,pd.meta_keyword,pd.meta_description,pd.description,p.image,p.sort_order,p.status FROM oc_product p  LEFT JOIN `oc_product_description` pd ON (p.product_id = pd.product_id)   LEFT JOIN `oc_manufacturer` m ON (p.manufacturer_id = m.manufacturer_id)   LEFT JOIN `oc_url_alias` ua ON (CONCAT('product_id=', p.product_id) = ua.query)  WHERE  pd.language_id = '1'   ORDER BY p.product_ in /home/chxtdtsw/liki24.zebratratata.pp.ua/system/storage/modification/system/library/db/mysqli.php on line 47
+[10-Aug-2017 15:33:21 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required '/home/chxtdtsw/liki24.zebratratata.pp.ua/system/library/urlify.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/model/module/seogen.php on line 9
+[10-Aug-2017 21:49:03 Europe/Helsinki] PHP Fatal error:  Call to undefined method ControllerPaymentLiqPay::render() in /home/chxtdtsw/liki24.zebratratata.pp.ua/admin/controller/payment/liqpay.php on line 204

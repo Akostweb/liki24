@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0af425d8-8275-4ad4-aa69-80f6938d4b92" name="liki24.zebratratata@liki24.zebratratata.pp.ua" url="http://liki24.zebratratata.pp.ua">
+        <fileTransfer host="liki24.zebratratata.pp.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

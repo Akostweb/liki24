@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a4d4852-0d49-4124-a59e-ee926cb965fb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/en-gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/ru-ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ftpquota" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/liki24.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/attribute_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/manufacturer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/aqe/review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/attribute_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/manufacturer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/catalog/review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/column_left.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/filemanager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/forgotten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/common/reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/customer/custom_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/customer/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/customer/customer_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/design/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/error/not_found.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/error/permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/event/compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/event/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/analytics/google_analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/captcha/basic_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/captcha/google_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/recent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/dashboard/sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/feed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/fraud.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/extension/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/feed/google_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/feed/google_sitemap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/feed/openbaypro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/feed/unisender.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/fraud/fraudlabspro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/fraud/ip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/fraud/maxmind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/installer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/modification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/admin_quick_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/amazon_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/amazon_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/bestseller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/csvprice_pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/divido_calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/ebay_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/featured.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/google_hangouts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/klarna_checkout_module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/latest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/laybuy_layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/pilibaba_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/pp_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/pp_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/sagepay_direct_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/sagepay_server_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/seogen/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/seogen/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/slideshow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/special.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/zmenu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/module/zmenulist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazon_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazon_product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazonus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazonus_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/amazonus_product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/ebay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/ebay_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/ebay_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/etsy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/etsy_product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/etsy_shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/etsy_shop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/openbay/fba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/amazon_login_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/authorizenet_aim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/authorizenet_sim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/bank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/bluepay_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/bluepay_redirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/cardconnect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/cardinity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/cheque.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/cod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/divido.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/eway.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/firstdata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/firstdata_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/free_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/g2apay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/globalpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/globalpay_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/klarna_account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/klarna_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/klarna_invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/laybuy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/liqpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/nochex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_payeer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_w1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_AB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_EP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_GP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_MA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_MC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_MP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_PB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_QW.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_SB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_company_WM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_physical_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/ocstore_yk_physical_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/oplata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/paymate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/paypoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/payza.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/perpetual_payments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pilibaba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_express.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_payflow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_payflow_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_pro_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/pp_standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/qiwi_rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/realex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/realex_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/sagepay_direct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/sagepay_server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/sagepay_us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/sberbank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/securetrading_pp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/securetrading_ws.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/shoputils_ik.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/skrill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/twocheckout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/web_payment_software.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wmb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wmk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wmr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wmu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/webmoney_wmz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/payment/worldpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/auspost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/by_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/citylink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/fedex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/flat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/free.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/parcelforce_48.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/pickup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/royal_mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/track_no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/ups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/usps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/weight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/shipping/xshipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/theme/theme_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/handling.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/klarna_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/low_order_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/sub_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/extension/total/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/country.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/geo_zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/length_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/order_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/return_action.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/return_reason.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/return_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/stock_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/tax_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/tax_rate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/weight_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/localisation/zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/marketing/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/marketing/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/marketing/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/marketing/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/module/seogen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/ocdevwizard/smart_site_searcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/octeam/toolset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/octeam_tools/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/octeam_tools/seo_manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/affiliate_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/affiliate_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/customer_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/product_purchased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/product_viewed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/report/sale_tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/sale/voucher_theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/setting/setting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/setting/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/sass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/startup/startup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/tool/backup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/tool/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/tool/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/user/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/user/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/controller/user/user_permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/error_log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/manufacturer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/column_left.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/filemanager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/forgotten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/common/reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/customer/custom_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/customer/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/customer/customer_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/design/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/en-gb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/error/not_found.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/error/permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/analytics/google_analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/captcha/basic_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/captcha/google_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/recent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/dashboard/sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/feed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/fraud.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/openbay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/extension/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/feed/google_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/feed/google_sitemap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/feed/openbaypro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/feed/unisender.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/fraud/fraudlabspro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/fraud/ip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/fraud/maxmind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/installer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/modification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/amazon_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/amazon_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/bestseller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/divido_calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/ebay_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/featured.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/google_hangouts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/klarna_checkout_module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/latest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/laybuy_layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/pilibaba_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/pp_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/pp_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/sagepay_direct_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/sagepay_server_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/slideshow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/special.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_bulk_linking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_bulk_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_listingsaved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_stockupdates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazon_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_bulk_linking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_bulk_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_listingsaved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_stockupdates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/amazonus_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_newbulk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_orders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_summary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_syncronise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/ebay_usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy_listings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/etsy_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/fba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/fba_fulfillment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/fba_fulfillment_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/fba_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/fba_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/openbay_itemlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/openbay_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/openbay/openbay_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/amazon_login_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/authorizenet_aim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/authorizenet_sim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/bank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/bluepay_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/bluepay_redirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/cardconnect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/cardinity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/cheque.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/cod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/divido.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/eway.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/firstdata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/firstdata_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/free_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/g2apay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/globalpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/globalpay_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/klarna_account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/klarna_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/klarna_invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/laybuy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/liqpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/liqpay_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/nochex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_payeer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_w1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_AB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_EP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_GP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_MA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_MC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_MP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_PB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_QW.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_SB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_company_WM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_physical_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/ocstore_yk_physical_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/oplata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/paymate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/paypoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/payza.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/perpetual_payments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pilibaba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_express.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_express_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_express_refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_express_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_express_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_payflow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_payflow_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_pro_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/pp_standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/qiwi_rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/realex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/realex_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/sagepay_direct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/sagepay_server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/sagepay_us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/sberbank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/securetrading_pp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/securetrading_ws.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/shoputils_ik.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/skrill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/twocheckout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/web_payment_software.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wmb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wmk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wmr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wmu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/webmoney_wmz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/payment/worldpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/auspost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/by_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/citylink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/fedex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/flat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/free.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/parcelforce_48.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/pickup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/royal_mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/track_no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/ups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/usps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/shipping/weight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/theme/theme_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/handling.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/klarna_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/low_order_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/sub_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/total/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/country.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/geo_zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/length_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/order_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/return_action.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/return_reason.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/return_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/stock_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/tax_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/tax_rate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/weight_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/localisation/zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/mail/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/mail/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/mail/forgotten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/mail/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/mail/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/marketing/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/marketing/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/marketing/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/marketing/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/module/zmenu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/module/zmenulist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/octeam/toolset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/octeam_tools/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/octeam_tools/seo_manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/payment/liqpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/affiliate_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/customer_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/product_purchased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/product_viewed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/sale_coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/sale_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/sale_return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/sale_shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/report/sale_tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/sale/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/sale/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/sale/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/sale/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/sale/voucher_theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/setting/setting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/setting/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/tool/backup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/tool/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/tool/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/user/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/user/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/en-gb/user/user_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/zmenu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/module/zmenulist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/english/ocdevwizard/smart_site_searcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/attribute_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/manufacturer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/aqe/review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/attribute_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/manufacturer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/catalog/review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/column_left.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/filemanager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/forgotten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/customer/custom_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/customer/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/customer/customer_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/design/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/error/not_found.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/error/permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/analytics/google_analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/captcha/basic_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/captcha/google_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/recent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/dashboard/sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/analytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/feed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/fraud.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/openbay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/extension/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/feed/google_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/feed/google_sitemap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/feed/openbaypro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/feed/unisender.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/fraud/fraudlabspro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/fraud/ip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/fraud/maxmind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/installer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/modification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/amazon_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/amazon_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/banner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/bestseller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/divido_calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/ebay_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/featured.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/google_hangouts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/information.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/klarna_checkout_module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/latest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/laybuy_layout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/pilibaba_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/pp_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/pp_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/sagepay_direct_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/sagepay_server_cards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/slideshow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/special.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/module/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_bulk_linking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_bulk_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_listingsaved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_stockupdates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazon_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_bulk_linking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_bulk_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_listingsaved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_stockupdates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/amazonus_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_newbulk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_orders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_subscription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_summary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_syncronise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/ebay_usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy_links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy_listings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/etsy_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/fba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/fba_fulfillment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/fba_fulfillment_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/fba_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/fba_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/openbay_itemlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/openbay_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/openbay/openbay_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/amazon_login_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/authorizenet_aim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/authorizenet_sim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/bank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/bluepay_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/bluepay_redirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/cardconnect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/cardinity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/cheque.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/cod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/divido.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/eway.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/firstdata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/firstdata_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/free_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/g2apay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/globalpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/globalpay_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/klarna_account.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/klarna_checkout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/klarna_invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/laybuy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/liqpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/nochex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_payeer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_w1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_AB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_EP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_GP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_MA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_MC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_MP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_PB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_QW.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_SB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_company_WM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_physical_AC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/ocstore_yk_physical_PC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/oplata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/paymate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/paypoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/payza.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/perpetual_payments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pilibaba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_express.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_express_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_express_refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_express_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_express_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_payflow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_payflow_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_pro_iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/pp_standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/qiwi_rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/realex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/realex_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/sagepay_direct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/sagepay_server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/sagepay_us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/sberbank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/securetrading_pp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/securetrading_ws.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/shoputils_ik.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/skrill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/twocheckout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/web_payment_software.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wmb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wmk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wmr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wmu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/webmoney_wmz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/payment/worldpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/auspost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/by_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/citylink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/fedex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/flat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/free.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/parcelforce_48.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/pickup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/royal_mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/track_no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/ups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/usps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/weight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/shipping/xshipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/theme/theme_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/handling.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/klarna_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/low_order_fee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/sub_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/extension/total/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/country.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/geo_zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/length_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/order_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/return_action.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/return_reason.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/return_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/stock_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/tax_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/tax_rate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/weight_class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/localisation/zone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/mail/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/mail/customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/mail/forgotten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/mail/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/mail/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/marketing/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/marketing/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/marketing/coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/marketing/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/module/admin_quick_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/module/csvprice_pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/module/seogen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/octeam/toolset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/octeam_tools/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/octeam_tools/seo_manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/affiliate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/affiliate_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_activity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_credit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_online.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_reward.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/customer_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/marketing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/product_purchased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/product_viewed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/sale_coupon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/sale_order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/sale_return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/sale_shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/report/sale_tax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/ru-ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/sale/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/sale/recurring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/sale/return.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/sale/voucher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/language/ru-ru/sale/voucher_theme.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="attribute.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/controller/catalog/attribute.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="41" column="132" lean-forward="true" selection-start-line="41" selection-start-column="132" selection-end-line="41" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/controller/catalog/attribute.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="liki24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liki24" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="liki24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liki24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="liki24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liki24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PhpStorm 2017.2\liki24\admin\controller\catalog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4d4852-0d49-4124-a59e-ee926cb965fb" name="Default" comment="" />
+      <created>1502709362815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502709362815</updated>
+      <workItem from="1502709367012" duration="534000" />
+      <workItem from="1502709905459" duration="2741000" />
+      <workItem from="1502713238594" duration="1077000" />
+      <workItem from="1502714334191" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4704000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3125" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.49791667" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/controller/catalog/attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/catalog/attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="132" lean-forward="true" selection-start-line="41" selection-start-column="132" selection-end-line="41" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
